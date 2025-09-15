@@ -238,30 +238,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Google Gemini](https://deepmind.google/technologies/gemini/) for the incredible Vision API
-- [Spoonacular](https://spoonacular.com/) for comprehensive recipe data
-- [Streamlit](https://streamlit.io/) for the amazing web framework
-- Open source community for inspiration and support
-
-## 📞 Contact
-
-**FridgeVision Team** - your.email@example.com
-
-Project Link: [https://github.com/yourusername/fridgevision](https://github.com/yourusername/fridgevision)
-
-## 🆕 What's New
-
-### Version 2.0 - Gemini Vision Integration
-- ✨ **New**: Google Gemini 1.5 Pro Vision API integration
-- ✨ **New**: Precise bounding box detection
-- ✨ **Enhanced**: Improved food recognition accuracy (90%+)
-- ✨ **Enhanced**: Better recipe matching with Spoonacular API
-- 🗑️ **Removed**: YOLO model dependencies for simpler setup
-- 🗑️ **Removed**: Training scripts and datasets
-
----
-
-⭐ If you found this project helpful, please give it a star on GitHub!

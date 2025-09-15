@@ -1,0 +1,39 @@
+# Core Dependencies
+streamlit>=1.28.0
+streamlit-option-menu>=0.3.6
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# Image Processing
+Pillow>=9.5.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# API and Data Handling
+requests>=2.31.0
+aiohttp>=3.8.0
+pydantic>=2.0.0
+
+# Recipe API
+python-dotenv>=1.0.0
+
+# Visualization and Plotting
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Data Processing
+pandas>=2.0.0
+
+# Utilities
+tqdm>=4.65.0
+PyYAML>=6.0
+python-dateutil>=2.8.0
+
+# Testing and Quality
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Production and Deployment
+gunicorn>=21.0.0
